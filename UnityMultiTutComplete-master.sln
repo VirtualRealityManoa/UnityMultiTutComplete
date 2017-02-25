@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityMultiTutComplete-master", "UnityMultiTutComplete-master.csproj", "{928774CB-76B9-456B-A19C-294E1641E958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityMultiTutComplete-master.Editor", "UnityMultiTutComplete-master.Editor.csproj", "{2BE0160E-079A-CF84-6564-BA23529058FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{928774CB-76B9-456B-A19C-294E1641E958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928774CB-76B9-456B-A19C-294E1641E958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928774CB-76B9-456B-A19C-294E1641E958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928774CB-76B9-456B-A19C-294E1641E958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE0160E-079A-CF84-6564-BA23529058FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE0160E-079A-CF84-6564-BA23529058FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE0160E-079A-CF84-6564-BA23529058FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE0160E-079A-CF84-6564-BA23529058FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

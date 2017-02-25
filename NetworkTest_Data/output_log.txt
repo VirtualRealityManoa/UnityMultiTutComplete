@@ -1,30 +1,30 @@
-Initialize engine version: 5.5.1f1 (88d00a7498cd)
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce 940MX (ID=0x179c)
+    Renderer: NVIDIA GeForce GTX 980 (ID=0x13c0)
     Vendor:   NVIDIA
-    VRAM:     2019 MB
-    Driver:   21.21.13.7654
+    VRAM:     3072 MB
+    Driver:   21.21.13.7653
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\brian\OneDrive\Documents\Unity\Unity Multiplayer Networking Tutorial\NetworkTest_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\brian\OneDrive\Documents\Unity\Unity Multiplayer Networking Tutorial\NetworkTest_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\brian\OneDrive\Documents\Unity\Unity Multiplayer Networking Tutorial\NetworkTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\brian\OneDrive\Documents\Unity\Unity Multiplayer Networking Tutorial\NetworkTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\brian\OneDrive\Documents\Unity\Unity Multiplayer Networking Tutorial\NetworkTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\brian\OneDrive\Documents\Unity\Unity Multiplayer Networking Tutorial\NetworkTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\brian\OneDrive\Documents\Unity\Unity Multiplayer Networking Tutorial\NetworkTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\brian\OneDrive\Documents\Unity\Unity Multiplayer Networking Tutorial\NetworkTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\brian\OneDrive\Documents\Unity\Unity Multiplayer Networking Tutorial\NetworkTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading C:\Users\brian\OneDrive\Documents\Unity\Unity Multiplayer Networking Tutorial\NetworkTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.213 seconds
-Platform assembly: C:\Users\brian\OneDrive\Documents\Unity\Unity Multiplayer Networking Tutorial\NetworkTest_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\brian\OneDrive\Documents\Unity\Unity Multiplayer Networking Tutorial\NetworkTest_Data\Managed\System.dll (this message is harmless)
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: C:\Users\LAVA\Desktop\UnityMultiTutComplete-master\NetworkTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\LAVA\Desktop\UnityMultiTutComplete-master\NetworkTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\LAVA\Desktop\UnityMultiTutComplete-master\NetworkTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\LAVA\Desktop\UnityMultiTutComplete-master\NetworkTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\LAVA\Desktop\UnityMultiTutComplete-master\NetworkTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\LAVA\Desktop\UnityMultiTutComplete-master\NetworkTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\LAVA\Desktop\UnityMultiTutComplete-master\NetworkTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\LAVA\Desktop\UnityMultiTutComplete-master\NetworkTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\LAVA\Desktop\UnityMultiTutComplete-master\NetworkTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\LAVA\Desktop\UnityMultiTutComplete-master\NetworkTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.131 seconds
+Platform assembly: C:\Users\LAVA\Desktop\UnityMultiTutComplete-master\NetworkTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\LAVA\Desktop\UnityMultiTutComplete-master\NetworkTest_Data\Managed\System.dll (this message is harmless)
+desktop: 4096x2160 60Hz; virtual: 4096x2160 at 0,0
 <RI> Initializing input.
-XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.625598 ms
-Setting up 1 worker threads for Enlighten.
-  Thread -> id: bd4 -> priority: 1 
+UnloadTime: 0.899182 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 18b0 -> priority: 1 
+  Thread -> id: 1814 -> priority: 1 
